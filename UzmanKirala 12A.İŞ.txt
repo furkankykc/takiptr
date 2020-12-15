@@ -1,0 +1,25 @@
+Giden gelen veriler bulunduğumuz firma tarafından kontrol edilecektir, lütfen yazılımı tamamen indirmeyi denemeyiniz.
+Teşekkürler.
+______________
+Cpanel bilgileri
+takiptr
+pLfVOgsgJRX@
+https://tr21.alpmedya.com:2083/
+______________
+Website Bilgileri
+takiptr.com
+Kullanıcı adı : 5384645151
+Şifre : 5384645151
+______________
+Uzmankirala İş Bilgileri
+https://www.takiptr.com/apartmanaidat?id=1
+bu sayfada x butonu ile alınacak olan aidat zaten sweet alert ile onay istiyor. 
+Onay aşamasında, apt adı daire no ad soyad aidat yılı dönem ayı aidat ödendi olarak değiştirilsin mi ?
+vazgeç evet.
+x butonuna basınca ters işlem yaparak ilgili aidatı ödenmedi olarka değiştirecek ve db den silecektir.
+______________
+Destek Talebi.
+https://www.takiptr.com/aidatlistesi
+buradaki aidatlarda 2019 yılının ilk 2 aidatını alabiliyorsunuz. Fakat 2019 DIŞINDAKİ 2020 2021 yani 2019 üzeri aidatlarda ilk 2 aidat alınmıyor ocak ve şubat.
+
+
